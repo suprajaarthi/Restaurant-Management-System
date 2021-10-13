@@ -13,4 +13,7 @@ Steps to run the code :
 
 
 
-![Screenshot 2021-10-13 at 9 29 46 AM](https://user-images.githubusercontent.com/51900501/137064896-2d3dfb0f-6464-4d46-bf98-ed6f659ebae5.png)
+5. Goto the folder location
+6. Run python3 main.py 
+
+![Screenshot 2021-10-13 at 9 37 50 AM](https://user-images.githubusercontent.com/51900501/137065592-8df92775-8759-48ca-a230-a49026f9b186.png)
