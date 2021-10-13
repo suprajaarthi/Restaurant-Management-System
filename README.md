@@ -5,7 +5,7 @@ Restaurant Management System using Python 3 and Tkinter
 Steps to run the code : 
 
 1. https://www.python.org/downloads/ 
-2. Setup Environment Variable if necessary 
+2. Setup Environment Variables if necessary 
 3. pip install tkinter 
 4. pip install "similar packages"
 5. cd RMS (Goto the folder location)
