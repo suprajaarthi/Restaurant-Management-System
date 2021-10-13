@@ -1,0 +1,27 @@
+*****************************************************************************
+	BILL GENERATED:			Bill132448	21/10/13
+*****************************************************************************
+Unit				Total of Unit 
+Cocktail:					4
+Iced Tea:					5
+Hot Chocolate:					7
+Orange Juice:					3
+Milk Shake:					4
+Mountain Dew:					1
+Soda:					2
+Coke:					3
+Fried Chicken:					12
+Kare Kare:					7
+Crispy Pasta:					9
+Chicken Momos:					3
+Chicken Noodles:					1
+Hamburger :					6
+Frankie :					5
+Chicken Rice:					1
+Total of Drinks:				P1605.00
+Tax Paid:				P4121.40
+Total of Foods:				P19000.00
+SubTotal:				P20607.00
+Service Charge:				P2.00
+Total Cost:				P24728.40
+
