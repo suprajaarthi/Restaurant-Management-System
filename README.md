@@ -1,5 +1,5 @@
 # Restaurant-Management-System
-Restaurant Management System in Python 3 and Tkinter 
+Restaurant Management System using Python 3 and Tkinter 
 
 
 Steps to run the code : 
